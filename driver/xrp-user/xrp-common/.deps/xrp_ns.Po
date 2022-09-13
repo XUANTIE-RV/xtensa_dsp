@@ -1,0 +1,50 @@
+xrp_ns.o: xrp_ns.c \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/inttypes.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/stdint.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/yvals.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/yvals.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/config/core-isa.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/lib/xcc/include/stdarg.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/stdlib.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/stdlib.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/alloca.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/string.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/string.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/tie/xt_scmpr.h \
+  xrp_debug.h xrp_ns.h ../xrp_api.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/stddef.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/stddef.h
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/inttypes.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/stdint.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/yvals.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/yvals.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/config/core-isa.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/lib/xcc/include/stdarg.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/stdlib.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/stdlib.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/alloca.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/string.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/string.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/tie/xt_scmpr.h:
+
+xrp_debug.h:
+
+xrp_ns.h:
+
+../xrp_api.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/stddef.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/stddef.h:

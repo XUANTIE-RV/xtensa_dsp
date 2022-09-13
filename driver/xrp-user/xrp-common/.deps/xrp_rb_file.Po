@@ -1,0 +1,37 @@
+xrp_rb_file.o: xrp_rb_file.c \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/string.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/string.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/yvals.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/config/core-isa.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/lib/xcc/include/stdarg.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/tie/xt_scmpr.h \
+  xrp_rb_file.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/stddef.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/stddef.h \
+  xrp_types.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/stdint.h \
+  ../xrp-kernel/xrp_ring_buffer.h
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/string.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/string.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/yvals.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/config/core-isa.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/lib/xcc/include/stdarg.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/tie/xt_scmpr.h:
+
+xrp_rb_file.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/stddef.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/stddef.h:
+
+xrp_types.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/stdint.h:
+
+../xrp-kernel/xrp_ring_buffer.h:
