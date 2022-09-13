@@ -1,0 +1,3 @@
+[submodule "CSI_DSP_FW"]
+	path = CSI_DSP_FW
+	url = git@gitlab.alibaba-inc.com:thead-linux-private/csi_dsp_firmware.git

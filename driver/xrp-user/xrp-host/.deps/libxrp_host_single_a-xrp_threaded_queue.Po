@@ -1,0 +1,196 @@
+libxrp_host_single_a-xrp_threaded_queue.o: xrp_threaded_queue.c \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/stdio.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/stdio.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/yvals.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/config/core-isa.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/lib/xcc/include/stdarg.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/mbstatet.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/tie/xt_scmpr.h \
+  ../xrp-common/xrp_debug.h xrp_host_common.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/stdlib.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/stdlib.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/alloca.h \
+  xrp_atomic.h thread-xos/xrp_thread_impl.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_types.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/stdint.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/hal.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/config/core.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xtensa-versions.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xtensa-types.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/config/core-matmap.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/config/tie.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/hal-certified.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/stddef.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/stddef.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/hal-compat.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/core-macros.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/corebits.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/tie/xt_core.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/tie/xt_interrupt.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/tie/xt_timer.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/tie/xt_externalregisters.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/tie/xt_coprocessors.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/intctrl.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/core-macros-compat.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_common.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/config/system.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_params.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/sys/reent.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/wchar.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/xwcstod.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/xwstr.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/fenv.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/ymath.h \
+  /home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/ymath.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_errors.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_regaccess.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_log.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_thread.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_cond.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_event.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_mutex.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_msgq.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_semaphore.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_blockmem.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_barrier.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_timer.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_stopwatch.h \
+  /home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_syslog.h \
+  single/xrp_host_impl.h ../xrp_api.h thread-xos/xrp_thread_impl.h \
+  thread-xos/xrp_queue_impl.h xrp_threaded_queue.h \
+  thread-xos/xrp_thread_impl.h xrp_threaded_queue.h
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/stdio.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/stdio.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/yvals.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/config/core-isa.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/lib/xcc/include/stdarg.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/mbstatet.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/tie/xt_scmpr.h:
+
+../xrp-common/xrp_debug.h:
+
+xrp_host_common.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/stdlib.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/stdlib.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/alloca.h:
+
+xrp_atomic.h:
+
+thread-xos/xrp_thread_impl.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_types.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/stdint.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/hal.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/config/core.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xtensa-versions.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xtensa-types.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/config/core-matmap.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/config/tie.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/hal-certified.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/stddef.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/stddef.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/hal-compat.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/core-macros.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/corebits.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/tie/xt_core.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/tie/xt_interrupt.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/tie/xt_timer.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/tie/xt_externalregisters.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/tie/xt_coprocessors.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/intctrl.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/core-macros-compat.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_common.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/arch/include/xtensa/config/system.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_params.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/sys/reent.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/wchar.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/xwcstod.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/xwstr.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/fenv.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/ymath.h:
+
+/home/jianghm/xtensa/XtDevTools/install/builds/RI-2020.4-linux/q7_check/xtensa-elf/include/c99/ymath.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_errors.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_regaccess.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_log.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_thread.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_cond.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_event.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_mutex.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_msgq.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_semaphore.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_blockmem.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_barrier.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_timer.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_stopwatch.h:
+
+/home/jianghm/xtensa/XtDevTools/install/tools/RI-2020.4-linux/XtensaTools/xtensa-elf/include/xtensa/xos_syslog.h:
+
+single/xrp_host_impl.h:
+
+../xrp_api.h:
+
+thread-xos/xrp_thread_impl.h:
+
+thread-xos/xrp_queue_impl.h:
+
+xrp_threaded_queue.h:
+
+thread-xos/xrp_thread_impl.h:
+
+xrp_threaded_queue.h:
